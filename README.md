@@ -12,7 +12,7 @@ I'm eager to apply my skills in software development and digital marketing to cr
 - Digital marketing strategies
 - Optimization of customer experience
 
-</h2>📚 Constantly learning and exploring new technologies to improve my skill set and deliver impactful projects.</h2>
+<h2>📚 Constantly learning and exploring new technologies to improve my skill set and deliver impactful projects.</h2>
 
 Feel free to connect with me or explore my repositories!
 - 💬 Visit my Youtube Channel [Maurobalas] (https://www.youtube.com/channel/UCJLSflizEyfqXUhLOtslUFw/about))
