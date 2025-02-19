@@ -20,8 +20,6 @@ Graduated in **Business Administration and Management**, with a strong desire to
 
 Feel free to connect with me or explore my repositories!
 
-- 💬 Check out my [YouTube Channel](https://www.youtube.com/channel/UCJLSflizEyfqXUhLOtslUFw/about)
-
 ---
 
 ### Visitor count:
