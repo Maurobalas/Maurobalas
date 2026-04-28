@@ -1,29 +1,52 @@
-# 👋 Hi, I'm Mauro Balaguer!
+# 👋 Hi, I'm Mauro Balaguer
 
-🎓 Currently pursuing my AI master at [EDEM](https://edem.eu)
+🎓 MSc in Artificial Intelligence at [EDEM](https://edem.eu)  
+🎓 BSc in Business Administration  
 
-I'm an **entrepreneur** passionate about combining **business management** and **artificial intelligence** to create impactful solutions. I am currently expanding my knowledge in **machine learning** and **deep learning** to further enhance my skills and make a difference in the world of technology.
+I’m a **junior consultant profile** focused on **data-driven decision making**, **business analysis**, and **digital transformation**.
 
-## 🌟 Interests:
-- Web development
-- Data analysis
-- Digital marketing strategies
-- Optimization of customer experience
-
-## 🚀 Highlighted Project: 
-**IA Project 2** – A project where I dive deep into practical applications of AI to optimize real-world processes and enhance performance.
-
-## 🎓 Background:
-Graduated in **Business Administration and Management**, with a strong desire to integrate **AI** into the world of business to drive **digital transformation** and foster growth. I am excited to leverage my expertise to develop innovative solutions.
-
-## 📚 Constantly learning and exploring new technologies to improve my skill set and deliver impactful projects.
-
-Feel free to connect with me or explore my repositories!
+My background combines **business management** with **artificial intelligence**, allowing me to bridge the gap between data and strategy to improve processes and support decision-making.
 
 ---
 
-### Visitor count:
-<img src="https://profile-counter.glitch.me/maurobalas/count.svg" />
+## 💼 What I focus on
+- Data analysis applied to business
+- Process optimization
+- Digital transformation projects
+- Market and performance analysis
 
-### 📫 Reach me at:
-[![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mauro-balaguer-dos-santos-b8556a1b8/)
+---
+
+## 🛠️ Tools & Skills
+- Python (data analysis)
+- Excel (advanced analytics & reporting)
+- CRM & commercial data analysis
+- Business intelligence fundamentals
+
+---
+
+## 🌍 Profile
+- International mindset
+- Multilingual: Spanish, English, French, Portuguese
+- Experience working in multicultural environments
+
+---
+
+## 🚀 Projects
+**AI Project 2**  
+Application of AI models to optimize real-world business processes and improve performance through data.
+
+---
+
+## 🎯 Career Goal
+To grow within **consulting or strategy roles**, contributing to **data-driven business transformation** and helping companies make better decisions.
+
+---
+
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/mauro-balaguer-dos-santos-b8556a1b8/)
+
+---
+
+### 👀 Visitor count
+<img src="https://profile-counter.glitch.me/maurobalas/count.svg" />
